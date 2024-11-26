@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Configuration
 SPLUNK_URL_CPU_RAM = "http://localhost:8089/services/server/status/resource-usage/hostwide?output_mode=json"
 SPLUNK_USER = "root"
-SPLUNK_PASSWORD = "Btssio75000"
+SPLUNK_PASSWORD = "Password"
 
 @app.route('/metrics')
 def metrics():
