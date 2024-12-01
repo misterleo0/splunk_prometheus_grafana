@@ -2,8 +2,8 @@
 
 # Variables à configurer
 SPLUNK_HOST="http://localhost:8089"
-USERNAME="root"
-PASSWORD="Btssio75000"
+USERNAME="xxxx"
+PASSWORD="xxxx"
 PROMETHEUS_METRICS_FILE="/tmp/metrics.prom"
 
 # Récupération des informations des index
